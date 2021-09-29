@@ -17,5 +17,9 @@ The Ideal Effective Time Ratio is 0.75 or above...
 Try it out 
 
 Just open the .py file and run it as simple as that
+Enter You're time in minutes -> Efficioco does all the work for by even adding your slotif you wish so.
+Done Entering Press "0", and Efficioco will move you onto the next section.
+
+Try it out
 Will be uploading the application soon.
 
