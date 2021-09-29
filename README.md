@@ -6,7 +6,7 @@
 <h1>         Facer </h1>
 <h2> Efficient Time Ratio Calculator </h2>
 
-You start saving something as soon as you start measuring it....
+As the saying goes .. You start saving as soon as you start measuring & what better thing to save than Time itself.
 This is my way to measure and divide time inorder to be at my best and keep improving.
 
 Measure the time you've spent today on various activities and divide into two parts
