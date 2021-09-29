@@ -20,7 +20,7 @@ This Method helps you find out how much of your time is actually dedicated to so
 Instructions:- 
   <li>Just open the .py file and run it as simple as that </li>
 <li>Enter You're time in minutes -> Efficioco does all the work for by even adding your slot if you wish so </li>
-  <li>Done Entering Press "0", and Efficioco will move you onto the next section. </li>
+  <li>Done Entering Press, "0", and Efficioco will move you onto the next section. </li>
 
 
 
