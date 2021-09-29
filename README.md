@@ -7,13 +7,14 @@
 <h2> Efficient Time Ratio Calculator </h2>
 
 You start saving something as soon as you start measuring it....
-This is my way to measure and divide time inorder to be at my best self and keep self-improving.
+This is my way to measure and divide time inorder to be at my best and keep improving.
 
 Measure the time you've spent today on various activities and divide into two parts
 Useful and Unuseful
 
 Efficioco measures the total time and uses its algorithm to give you you're effective time ratio
 The Ideal Effective Time Ratio is 0.75 or above...
+This Method helps you find out how much of your time is actually dedicated to something constructive.
 Try it out 
 
 Instructions:- 
