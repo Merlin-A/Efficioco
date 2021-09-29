@@ -4,7 +4,7 @@
 
 
 <h1>         Facer </h1>
-<h2> Efficient Time Ratio Calculator <h2>
+<h2> Efficient Time Ratio Calculator </h2>
 
 You start saving something as soon as you start measuring it....
 This is my way to measure and divide time inorder to be at my best self and keep self-improving.
