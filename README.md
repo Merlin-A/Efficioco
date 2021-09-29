@@ -6,6 +6,8 @@
 <h1>         Effioco </h1>
 <h2> Effective Time Ratio Calculator </h2>
 
+**Developed By:- Aditya A **
+
 As the saying goes .. You start saving as soon as you start measuring & what better thing to save than Time itself.
 This is my way to measure and divide time inorder to be at my best and keep improving.
 
