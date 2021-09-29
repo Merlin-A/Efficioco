@@ -15,7 +15,7 @@ Useful and Unuseful
 Efficioco measures the total time and uses its algorithm to give you you're effective time ratio
 The Ideal Effective Time Ratio is 0.75 or above...
 This Method helps you find out how much of your time is actually dedicated to something constructive.
-Try it out 
+
 
 Instructions:- 
   <li>Just open the .py file and run it as simple as that </li>
