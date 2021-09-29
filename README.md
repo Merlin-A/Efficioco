@@ -21,6 +21,10 @@ Instructions:-
 <li>Enter You're time in minutes -> Efficioco does all the work for by even adding your slot if you wish so </li>
   <li>Done Entering Press "0", and Efficioco will move you onto the next section. </li>
 
-Try it out
-Will be uploading the application soon.
+
+
+
+<hr>Try it out
+
+Will be uploading the application soon. </hr>
 
