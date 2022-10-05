@@ -2,6 +2,7 @@
 import time
 
 
+
 def Calculator():
     a = 0
     b = 0
@@ -39,7 +40,7 @@ def Calculator():
     if e_t >= 0.75:
         print("Keep Up The Good Work!!!!")
     else:
-        print("\nYou're better than this..., Keep Going")
+        print("\nYou're better than this.., Keep Going")
 
     choice = input("\nPress n to exit or press y to continue -> ")
     print("\n")
